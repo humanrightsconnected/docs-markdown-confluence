@@ -28,6 +28,7 @@ connie-publish: false
 - [Development Guide](./development/guide.md)
   - [Obsidian](./development/obsidian.md)
   - [CLI](./development/cli.md)
+  - [Tokens and Secrets](./development/tokens-and-secrets.md)
 
 [Thanks](./thanks.md)
 [Changelog](CHANGELOG.md)
